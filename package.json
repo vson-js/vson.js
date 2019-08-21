@@ -1,0 +1,22 @@
+{
+  "name": "vson.js",
+  "version": "1.0.0",
+  "description": "main of vson",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vson-js/vson.js.git"
+  },
+  "keywords": [
+    "vson"
+  ],
+  "author": "vson-js",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vson-js/vson.js/issues"
+  },
+  "homepage": "https://github.com/vson-js/vson.js#readme"
+}
